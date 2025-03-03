@@ -1,4 +1,4 @@
-<h1> Project Overview <h1/>
+<h1> Project Overview </h1>
   
 This project showcases my ability to automate Elastic IP (EIP) management in AWS using a serverless architecture. It detects and releases unattached Elastic IPs to prevent unnecessary costs, ensuring cost optimization for AWS infrastructure.
 
@@ -6,7 +6,7 @@ This project showcases my ability to automate Elastic IP (EIP) management in AWS
 
 ![image](https://github.com/user-attachments/assets/6b3ccea1-d022-4214-a5c7-5dd40669283b)
 
-<h1> Solution Overview <h1/>
+<h1> Solution Overview </h1>
   
 **AWS Lambda:** Automates the cleanup process by detecting and releasing unattached Elastic IPs.
 
@@ -28,7 +28,7 @@ Logs are generated for each action (e.g., detection and release of unattached IP
 
 A 200 status code is returned upon successful completion.
 
-<h1> Key Technologies <h1/>
+<h1> Key Technologies </h1>
   
 **AWS Lambda:** Serverless compute service for automation.
 
@@ -36,7 +36,7 @@ A 200 status code is returned upon successful completion.
 
 **AWS EC2:** Manages Elastic IPs and associated instances.
 
-<h1> Impact <h1/>
+<h1> Impact </h1>
   
 **Cost Optimization:** Prevents unnecessary charges by releasing unattached Elastic IPs.
 
@@ -44,7 +44,7 @@ A 200 status code is returned upon successful completion.
 
 **Visibility:** Logs provide transparency and aid in troubleshooting.
 
-<h1> Key Achievements <h1/>
+<h1> Key Achievements </h1>
   
 Designed a serverless solution to automate Elastic IP management.
 
